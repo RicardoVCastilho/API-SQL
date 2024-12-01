@@ -1,4 +1,4 @@
-# **API de Gerenciamento de Clientes com MySQL**
+# **API de Gerenciamento de Clientes com MySQL2**
 
 API RESTful para gerenciamento de dados de clientes, utilizando Node.js, Express e MySQL.
 
