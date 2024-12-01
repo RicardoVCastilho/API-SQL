@@ -111,7 +111,7 @@ O repositório está organizado da seguinte forma:
 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/RicardoVCastilho/API-SQL
 cd seu-repositorio
 ```
 2. Instalar as Dependências
